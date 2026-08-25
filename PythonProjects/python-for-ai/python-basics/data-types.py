@@ -27,9 +27,6 @@ print(power)
 # 3. Strings
 # ------------------------------------------------------------
 
-long_dash = "-" * 30
-print(long_dash)
-
 my_long_string = """
 This is a long string.
 This is a long text.
