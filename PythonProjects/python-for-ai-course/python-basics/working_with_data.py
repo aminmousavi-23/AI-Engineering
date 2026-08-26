@@ -1,88 +1,49 @@
-# ============================================================
-# Operators & String Manipulation
-# ============================================================
+import requests
+import pandas as pd
+import matplotlib.pyplot as plt
+from datetime import datetime, timedelta
+import os
 
+# 1. Get weather data
+today = datetime.now()
+week_ago = today - timedelta(days=7)
+start_date = week_ago.strftime("%Y-%m-%d")
+end_date = today.strftime("%Y-%m-%d")
 
-# ------------------------------------------------------------
-# 1. Arithmetic Operators
-# ------------------------------------------------------------
+url = f"https://api.open-meteo.com/v1/forecast?latitude=48.85&longitude=2.35&start_date={start_date}&end_date={end_date}&daily=temperature_2m_max,temperature_2m_min"
+response = requests.get(url)
+data = response.json()
 
-average = (10 + 20 + 30) / 3
-print(average)
+# 2. Process with pandas
+df = pd.DataFrame({
+    'date': pd.to_datetime(data['daily']['time']),
+    'max_temp': data['daily']['temperature_2m_max'],
+    'min_temp': data['daily']['temperature_2m_min']
+})
 
+# 3. Calculate average
+df['avg_temp'] = (df['max_temp'] + df['min_temp']) / 2
 
-# Regular division
-result = 10 / 2
-print(result)                   # 5.0
+# 4. Create visualization
+plt.figure(figsize=(10, 6))
+plt.plot(df['date'], df['max_temp'], 'r-o', label='Max')
+plt.plot(df['date'], df['min_temp'], 'b-o', label='Min')
+plt.plot(df['date'], df['avg_temp'], 'g--', label='Average')
 
+plt.xlabel('Date')
+plt.ylabel('Temperature (°C)')
+plt.title('Paris Weather - Past Week')
+plt.legend()
+plt.grid(True, alpha=0.3)
+plt.xticks(rotation=45)
+plt.tight_layout()
 
-# Integer / Floor division
-result = 10 // 2
-print(result)                   # 5
+# 5. Save everything
+if not os.path.exists('data'):
+    os.makedirs('data')
 
+plt.savefig('data/weather_chart.png')
+df.to_csv('data/paris_weather.csv', index=False)
 
-# ------------------------------------------------------------
-# 2. String Formatting - f-strings
-# ------------------------------------------------------------
-
-name = "Amin"
-
-string = f"Hi my name is {name}."
-
-print(string)
-
-
-# ------------------------------------------------------------
-# 3. String Case Methods
-# ------------------------------------------------------------
-
-print(string.lower())
-print(string.upper())
-print(string.title())
-
-
-# ------------------------------------------------------------
-# 4. Removing Whitespace
-# ------------------------------------------------------------
-
-messy = "  hello world  "
-
-print(messy.strip())            # "hello world"
-
-
-# ------------------------------------------------------------
-# 5. Removing Characters
-# ------------------------------------------------------------
-
-price = "$19.99"
-
-print(price.strip("$"))         # "19.99"
-
-
-# ------------------------------------------------------------
-# 6. Checking String Content
-# ------------------------------------------------------------
-
-message = "I love Python programming with Python"
-
-print("Python" in message)              # True
-print(message.startswith("I"))         # True
-print(message.endswith("Python"))      # True
-
-
-# ------------------------------------------------------------
-# 7. Finding Text
-# ------------------------------------------------------------
-
-print(message.find("Python"))           # 7
-print(message.count("Python"))          # 2
-
-
-# ------------------------------------------------------------
-# 8. Replacing Text
-# ------------------------------------------------------------
-
-new_message = message.replace("Python", "JavaScript")
-
-print(new_message)
-# "I love JavaScript programming with JavaScript"
+print(f"Average temperature: {df['avg_temp'].mean():.1f}°C")
+print("Files saved in 'data' folder")
