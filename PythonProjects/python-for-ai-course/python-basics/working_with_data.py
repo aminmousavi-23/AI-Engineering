@@ -1,11 +1,12 @@
-import requests
-import pandas as pd
-import matplotlib.pyplot as plt
-from datetime import datetime, timedelta
 import os
+from datetime import datetime, timedelta, timezone
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import requests
 
 # 1. Get weather data
-today = datetime.now()
+today = datetime.now(timezone.utc)
 week_ago = today - timedelta(days=7)
 start_date = week_ago.strftime("%Y-%m-%d")
 end_date = today.strftime("%Y-%m-%d")
@@ -15,35 +16,37 @@ response = requests.get(url)
 data = response.json()
 
 # 2. Process with pandas
-df = pd.DataFrame({
-    'date': pd.to_datetime(data['daily']['time']),
-    'max_temp': data['daily']['temperature_2m_max'],
-    'min_temp': data['daily']['temperature_2m_min']
-})
+df = pd.DataFrame(
+    {
+        "date": pd.to_datetime(data["daily"]["time"]),
+        "max_temp": data["daily"]["temperature_2m_max"],
+        "min_temp": data["daily"]["temperature_2m_min"],
+    }
+)
 
 # 3. Calculate average
-df['avg_temp'] = (df['max_temp'] + df['min_temp']) / 2
+df["avg_temp"] = (df["max_temp"] + df["min_temp"]) / 2
 
 # 4. Create visualization
 plt.figure(figsize=(10, 6))
-plt.plot(df['date'], df['max_temp'], 'r-o', label='Max')
-plt.plot(df['date'], df['min_temp'], 'b-o', label='Min')
-plt.plot(df['date'], df['avg_temp'], 'g--', label='Average')
+plt.plot(df["date"], df["max_temp"], "r-o", label="Max")
+plt.plot(df["date"], df["min_temp"], "b-o", label="Min")
+plt.plot(df["date"], df["avg_temp"], "g--", label="Average")
 
-plt.xlabel('Date')
-plt.ylabel('Temperature (°C)')
-plt.title('Paris Weather - Past Week')
+plt.xlabel("Date")
+plt.ylabel("Temperature (°C)")
+plt.title("Paris Weather - Past Week")
 plt.legend()
 plt.grid(True, alpha=0.3)
 plt.xticks(rotation=45)
 plt.tight_layout()
 
 # 5. Save everything
-if not os.path.exists('data'):
-    os.makedirs('data')
+if not os.path.exists("data"):
+    os.makedirs("data")
 
-plt.savefig('data/weather_chart.png')
-df.to_csv('data/paris_weather.csv', index=False)
+plt.savefig("data/weather_chart.png")
+df.to_csv("data/paris_weather.csv", index=False)
 
 print(f"Average temperature: {df['avg_temp'].mean():.1f}°C")
 print("Files saved in 'data' folder")
