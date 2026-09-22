@@ -1,0 +1,6 @@
+image_id,label,confidence,model_version
+IMG001,cat,0.95,v1
+IMG002,dog,0.87,v1
+IMG003,cat,0.91,v2
+IMG004,bird,0.78,v2
+IMG005,dog,0.93,v2
