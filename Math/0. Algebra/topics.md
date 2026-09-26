@@ -1,17 +1,17 @@
-- [ ] Number systems و قوانین محاسبات
-- [ ] Fractions, ratios, percentages
-- [ ] Powers & exponents
-- [ ] Roots & radicals
-- [ ] Algebraic expressions
-- [ ] Linear equations
-- [ ] Inequalities
-- [ ] Systems of equations
-- [ ] Functions
-- [ ] Graphs
-- [ ] Polynomialها
-- [ ] Factoring
-- [ ] Quadratic equations
-- [ ] Absolute value
-- [ ] Exponential functions
-- [ ] Logarithms
-- [ ] Sequences در حد مقدماتی
+- [ ] Number Systems & Arithmetic Rules (دستگاه‌های عددی و قوانین محاسبات)
+- [ ] Fractions, Ratios & Percentages (کسرها، نسبت‌ها و درصدها)
+- [ ] Powers & Exponents (توان‌ها و نماها)
+- [ ] Roots & Radicals (ریشه‌ها و عبارات رادیکالی)
+- [ ] Algebraic Expressions (عبارات جبری)
+- [ ] Linear Equations (معادلات خطی)
+- [ ] Inequalities (نامعادلات)
+- [ ] Systems of Equations (دستگاه‌های معادلات)
+- [ ] Functions (توابع)
+- [ ] Graphs (نمودارها)
+- [ ] Polynomials (چندجمله‌ای‌ها)
+- [ ] Factoring (تجزیه)
+- [ ] Quadratic Equations (معادلات درجه دوم)
+- [ ] Absolute Value (قدر مطلق)
+- [ ] Exponential Functions (توابع نمایی)
+- [ ] Logarithms (لگاریتم‌ها)
+- [ ] Sequences — Introductory Level (دنباله‌ها — در حد مقدماتی)
