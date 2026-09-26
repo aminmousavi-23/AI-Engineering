@@ -1,0 +1,17 @@
+- [ ] Number systems و قوانین محاسبات
+- [ ] Fractions, ratios, percentages
+- [ ] Powers & exponents
+- [ ] Roots & radicals
+- [ ] Algebraic expressions
+- [ ] Linear equations
+- [ ] Inequalities
+- [ ] Systems of equations
+- [ ] Functions
+- [ ] Graphs
+- [ ] Polynomialها
+- [ ] Factoring
+- [ ] Quadratic equations
+- [ ] Absolute value
+- [ ] Exponential functions
+- [ ] Logarithms
+- [ ] Sequences در حد مقدماتی
