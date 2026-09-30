@@ -1,0 +1,21 @@
+- [x] Data Science Fundamentals
+- [x] Data Understanding
+- [ ] Exploratory Data Analysis (EDA)
+- [ ] Descriptive Statistics
+- [ ] Probability Fundamentals
+- [ ] Probability Distributions
+- [ ] Data Visualization
+- [ ] Data Cleaning
+- [ ] Data Preprocessing
+- [ ] Feature Engineering
+- [ ] Train / Validation / Test
+- [ ] Sampling
+- [ ] Statistical Inference
+- [ ] Correlation & Relationships
+- [ ] Data Transformation Pipelines
+- [ ] scikit-learn Fundamentals
+- [ ] Model Evaluation Fundamentals
+- [ ] Evaluation Metrics
+- [ ] Dimensionality Reduction
+- [ ] Unsupervised Learning Fundamentals
+- [ ] End-to-End Data Science Project
