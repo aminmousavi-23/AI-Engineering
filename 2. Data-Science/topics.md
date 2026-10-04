@@ -1,7 +1,7 @@
 - [x] Data Science Fundamentals
 - [x] Data Understanding
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Descriptive Statistics
+- [x] Exploratory Data Analysis (EDA)
+- [x] Descriptive Statistics
 - [ ] Probability Fundamentals
 - [ ] Probability Distributions
 - [ ] Data Visualization
