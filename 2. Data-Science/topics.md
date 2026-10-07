@@ -4,7 +4,7 @@
 - [x] Descriptive Statistics
 - [ ] Probability Fundamentals
 - [ ] Probability Distributions
-- [ ] Data Visualization
+- [x] Data Visualization
 - [ ] Data Cleaning
 - [ ] Data Preprocessing
 - [ ] Feature Engineering
