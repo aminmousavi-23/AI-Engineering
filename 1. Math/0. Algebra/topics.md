@@ -12,6 +12,6 @@
 - [x] Factoring (تجزیه)
 - [x] Quadratic Equations (معادلات درجه دوم)
 - [x] Absolute Value (قدر مطلق)
-- [ ] Exponential Functions (توابع نمایی)
+- [x] Exponential Functions (توابع نمایی)
 - [ ] Logarithms (لگاریتم‌ها)
 - [ ] Sequences — Introductory Level (دنباله‌ها — در حد مقدماتی)
