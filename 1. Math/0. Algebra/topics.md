@@ -13,5 +13,5 @@
 - [x] Quadratic Equations (معادلات درجه دوم)
 - [x] Absolute Value (قدر مطلق)
 - [x] Exponential Functions (توابع نمایی)
-- [ ] Logarithms (لگاریتم‌ها)
+- [x] Logarithms (لگاریتم‌ها)
 - [ ] Sequences — Introductory Level (دنباله‌ها — در حد مقدماتی)
