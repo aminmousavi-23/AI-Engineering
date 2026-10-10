@@ -5,8 +5,8 @@
 - [ ] Probability Fundamentals
 - [ ] Probability Distributions
 - [x] Data Visualization
-- [ ] Data Cleaning
-- [ ] Data Preprocessing
+- [x] Data Cleaning
+- [x] Data Preprocessing
 - [ ] Feature Engineering
 - [ ] Train / Validation / Test
 - [ ] Sampling
