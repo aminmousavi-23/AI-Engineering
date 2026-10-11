@@ -7,8 +7,8 @@
 - [x] Data Visualization
 - [x] Data Cleaning
 - [x] Data Preprocessing
-- [ ] Feature Engineering
-- [ ] Train / Validation / Test
+- [x] Feature Engineering
+- [x] Train / Validation / Test ❌Practice more
 - [ ] Sampling
 - [ ] Statistical Inference
 - [ ] Correlation & Relationships
