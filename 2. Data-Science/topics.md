@@ -8,9 +8,9 @@
 - [x] Data Cleaning
 - [x] Data Preprocessing
 - [x] Feature Engineering
-- [x] Train / Validation / Test ❌Practice more
-- [ ] Sampling
-- [ ] Statistical Inference
+- [x] Train / Validation / Test
+- [x] Sampling
+- [x] Statistical Inference ❌practice more
 - [ ] Correlation & Relationships
 - [ ] Data Transformation Pipelines
 - [ ] scikit-learn Fundamentals
