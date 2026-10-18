@@ -11,11 +11,11 @@
 - [x] Train / Validation / Test
 - [x] Sampling
 - [x] Statistical Inference ❌practice more
-- [ ] Correlation & Relationships
-- [ ] Data Transformation Pipelines
-- [ ] scikit-learn Fundamentals
-- [ ] Model Evaluation Fundamentals
-- [ ] Evaluation Metrics
-- [ ] Dimensionality Reduction
-- [ ] Unsupervised Learning Fundamentals
+- [x] Correlation & Relationships
+- [x] Data Transformation Pipelines
+- [x] scikit-learn Fundamentals
+- [x] Model Evaluation Fundamentals
+- [x] Evaluation Metrics
+- [x] Dimensionality Reduction ❌practice more
+- [x] Unsupervised Learning Fundamentals
 - [ ] End-to-End Data Science Project
