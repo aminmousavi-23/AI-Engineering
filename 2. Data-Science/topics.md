@@ -10,7 +10,7 @@
 - [x] Feature Engineering
 - [x] Train / Validation / Test
 - [x] Sampling
-- [x] Statistical Inference ❌practice more
+- [x] Statistical Inference
 - [x] Correlation & Relationships
 - [x] Data Transformation Pipelines
 - [x] scikit-learn Fundamentals
