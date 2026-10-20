@@ -16,6 +16,6 @@
 - [x] scikit-learn Fundamentals
 - [x] Model Evaluation Fundamentals
 - [x] Evaluation Metrics
-- [x] Dimensionality Reduction ❌practice more
+- [x] Dimensionality Reduction
 - [x] Unsupervised Learning Fundamentals
-- [ ] End-to-End Data Science Project
+- [x] End-to-End Data Science Project
