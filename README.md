@@ -3,7 +3,7 @@
 > **This is a personal, hands-on practice repository.**
 > I created it to apply what I learn and to move forward on my AI Engineering path. It is not a course, a library, or a production-ready project.
 
-🇮🇷 [نسخه فارسی در ادامه همین فایل](#-مخزن-تمرین-شخصی-ai-engineering)
+ [نسخه فارسی در ادامه همین فایل](#-مخزن-تمرین-شخصی-ai-engineering)
 
 ---
 
@@ -57,7 +57,7 @@ Suggestions and feedback are very welcome. Feel free to open an issue or reach o
 
 <div dir="rtl" align="right">
 
-# 🇮🇷 مخزن تمرین شخصی AI Engineering
+# مخزن تمرین شخصی AI Engineering
 
 > **این مخزن فقط یک ریپوی عملی و شخصی برای خودم است.**
 > آن را ساخته‌ام تا آنچه یاد می‌گیرم را تمرین کنم و مسیر AI Engineering را جلو ببرم. این مخزن یک دوره‌ی آموزشی، یک کتابخانه یا یک پروژه‌ی آماده‌ی تولید نیست.
