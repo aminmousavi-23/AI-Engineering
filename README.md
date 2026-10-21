@@ -37,6 +37,8 @@ I use AI tools as a learning aid (for example, for reviewing, organizing, and su
 - Code may be unfinished, experimental, or not optimized.
 - Results come from educational datasets and should not be used for real-world decisions.
 
+
+
 ## 🚀 Getting Started
 
 ```bash
@@ -52,8 +54,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 Suggestions and feedback are very welcome. Feel free to open an issue or reach out to me.
 
 ---
-
-
 
 # مخزن تمرین شخصی AI Engineering
 
@@ -97,4 +97,3 @@ Suggestions and feedback are very welcome. Feel free to open an issue or reach o
 ## 📬 بازخورد
 
 پیشنهاد و بازخورد شما با کمال میل پذیرفته می‌شود. می‌توانید Issue باز کنید یا با من در ارتباط باشید.
-
