@@ -1,7 +1,7 @@
 ### Phase 1 — RAG Fundamentals
 
-- [ ] What is RAG?
-- [ ] Why RAG Instead of Prompting Alone?
+- [x] What is RAG?
+- [x] Why RAG Instead of Prompting Alone?
 - [ ] RAG Architecture and Workflow
 - [ ] Retrieval vs Generation
 - [ ] Knowledge Sources and External Context
@@ -24,6 +24,8 @@
 - [ ] Metadata-Aware Chunking
 - [ ] Chunking Quality Evaluation
 
+
+
 ### Phase 4 — Embeddings
 
 - [ ] Embeddings Fundamentals
@@ -34,6 +36,8 @@
 - [ ] Similarity Metrics: Cosine Similarity and Dot Product
 - [ ] Embedding Dimensions
 - [ ] Embedding Model Selection
+
+
 
 ### Phase 5 — Vector Search
 
@@ -46,6 +50,8 @@
 - [ ] Similarity Thresholds
 - [ ] Vector Database Fundamentals
 
+
+
 ### Phase 6 — Basic RAG Pipeline
 
 - [ ] Query Processing
@@ -56,6 +62,8 @@
 - [ ] Generating Grounded Answers
 - [ ] Returning Sources and Citations
 - [ ] Handling No-Result Queries
+
+
 
 ### Phase 7 — Retrieval Improvements
 
@@ -68,6 +76,8 @@
 - [ ] Multi-Query Retrieval
 - [ ] Parent-Child Retrieval Fundamentals
 
+
+
 ### Phase 8 — RAG Evaluation
 
 - [ ] RAG Evaluation Fundamentals
@@ -78,6 +88,8 @@
 - [ ] Faithfulness and Groundedness
 - [ ] Evaluating Retrieval Separately from Generation
 - [ ] Comparing RAG Configurations
+
+
 
 ### Phase 9 — RAG Engineering
 
@@ -91,6 +103,8 @@
 - [ ] Error Handling and Logging
 - [ ] Access Control and Document Permissions
 - [ ] Prompt Injection Risks in Retrieved Content
+
+
 
 ### Phase 10 — End-to-End RAG Project
 
