@@ -2,10 +2,11 @@
 
 - [x] What is RAG?
 - [x] Why RAG Instead of Prompting Alone?
-- [ ] RAG Architecture and Workflow
-- [ ] Retrieval vs Generation
-- [ ] Knowledge Sources and External Context
-- [ ] RAG Limitations and Use Cases
+- [x] RAG Architecture and Workflow
+- [x] Retrieval vs Generation
+- [x] Knowledge Sources and External Context
+- [x] RAG Limitations and Use Cases
+- [ ] Code
 
 ### Phase 2 — Document Ingestion
 
@@ -14,6 +15,7 @@
 - [ ] Text Extraction and Cleaning
 - [ ] Document Metadata
 - [ ] Document Parsing Fundamentals
+- [ ] Code
 
 ### Phase 3 — Chunking
 
@@ -23,8 +25,7 @@
 - [ ] Sentence-Based and Recursive Chunking
 - [ ] Metadata-Aware Chunking
 - [ ] Chunking Quality Evaluation
-
-
+- [ ] Code
 
 ### Phase 4 — Embeddings
 
@@ -36,8 +37,7 @@
 - [ ] Similarity Metrics: Cosine Similarity and Dot Product
 - [ ] Embedding Dimensions
 - [ ] Embedding Model Selection
-
-
+- [ ] Code
 
 ### Phase 5 — Vector Search
 
@@ -49,8 +49,7 @@
 - [ ] Top-K Retrieval
 - [ ] Similarity Thresholds
 - [ ] Vector Database Fundamentals
-
-
+- [ ] Code
 
 ### Phase 6 — Basic RAG Pipeline
 
@@ -62,8 +61,7 @@
 - [ ] Generating Grounded Answers
 - [ ] Returning Sources and Citations
 - [ ] Handling No-Result Queries
-
-
+- [ ] Code
 
 ### Phase 7 — Retrieval Improvements
 
@@ -75,8 +73,7 @@
 - [ ] Context Compression
 - [ ] Multi-Query Retrieval
 - [ ] Parent-Child Retrieval Fundamentals
-
-
+- [ ] Code
 
 ### Phase 8 — RAG Evaluation
 
@@ -88,8 +85,7 @@
 - [ ] Faithfulness and Groundedness
 - [ ] Evaluating Retrieval Separately from Generation
 - [ ] Comparing RAG Configurations
-
-
+- [ ] Code
 
 ### Phase 9 — RAG Engineering
 
@@ -103,8 +99,7 @@
 - [ ] Error Handling and Logging
 - [ ] Access Control and Document Permissions
 - [ ] Prompt Injection Risks in Retrieved Content
-
-
+- [ ] Code
 
 ### Phase 10 — End-to-End RAG Project
 
@@ -117,3 +112,4 @@
 - [ ] Create a RAG Evaluation Dataset
 - [ ] Evaluate and Improve Retrieval Quality
 - [ ] Document Architecture and Limitations
+- [ ] Code
