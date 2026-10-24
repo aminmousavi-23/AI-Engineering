@@ -1,9 +1,9 @@
 ## Phase 1 — ML Fundamentals
 
-- [ ] 01. Supervised Learning
-- [ ] 02. Regression vs Classification
-- [ ] 03. Baseline Models
-- [ ] 04. Overfitting and Underfitting
+- [x] 01. Supervised Learning
+- [x] 02. Regression vs Classification
+- [x] 03. Baseline Models
+- [x] 04. Overfitting and Underfitting
 - [ ] 05. Bias-Variance Tradeoff
 - [ ] 06. Data Leakage
 - [ ] 07. Generalization
