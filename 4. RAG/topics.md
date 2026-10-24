@@ -6,12 +6,12 @@
 - [x] Retrieval vs Generation
 - [x] Knowledge Sources and External Context
 - [x] RAG Limitations and Use Cases
-- [ ] Code
+- [x] Code
 
 ### Phase 2 — Document Ingestion
 
-- [ ] Document Loading
-- [ ] Working with PDF, TXT, Markdown, and HTML
+- [x] Document Loading
+- [x] Working with PDF, TXT, Markdown, and HTML
 - [ ] Text Extraction and Cleaning
 - [ ] Document Metadata
 - [ ] Document Parsing Fundamentals
@@ -27,6 +27,8 @@
 - [ ] Chunking Quality Evaluation
 - [ ] Code
 
+
+
 ### Phase 4 — Embeddings
 
 - [ ] Embeddings Fundamentals
@@ -38,6 +40,8 @@
 - [ ] Embedding Dimensions
 - [ ] Embedding Model Selection
 - [ ] Code
+
+
 
 ### Phase 5 — Vector Search
 
@@ -51,6 +55,8 @@
 - [ ] Vector Database Fundamentals
 - [ ] Code
 
+
+
 ### Phase 6 — Basic RAG Pipeline
 
 - [ ] Query Processing
@@ -62,6 +68,8 @@
 - [ ] Returning Sources and Citations
 - [ ] Handling No-Result Queries
 - [ ] Code
+
+
 
 ### Phase 7 — Retrieval Improvements
 
@@ -75,6 +83,8 @@
 - [ ] Parent-Child Retrieval Fundamentals
 - [ ] Code
 
+
+
 ### Phase 8 — RAG Evaluation
 
 - [ ] RAG Evaluation Fundamentals
@@ -86,6 +96,8 @@
 - [ ] Evaluating Retrieval Separately from Generation
 - [ ] Comparing RAG Configurations
 - [ ] Code
+
+
 
 ### Phase 9 — RAG Engineering
 
@@ -100,6 +112,8 @@
 - [ ] Access Control and Document Permissions
 - [ ] Prompt Injection Risks in Retrieved Content
 - [ ] Code
+
+
 
 ### Phase 10 — End-to-End RAG Project
 
