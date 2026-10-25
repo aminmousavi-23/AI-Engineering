@@ -4,9 +4,9 @@
 - [x] 02. Regression vs Classification
 - [x] 03. Baseline Models
 - [x] 04. Overfitting and Underfitting
-- [ ] 05. Bias-Variance Tradeoff
-- [ ] 06. Data Leakage
-- [ ] 07. Generalization
+- [x] 05. Bias-Variance Tradeoff
+- [x] 06. Data Leakage
+- [x] 07. Generalization
 
 ## Phase 2 — Regression Algorithms
 
