@@ -12,8 +12,8 @@
 
 - [x] Document Loading
 - [x] Working with PDF, TXT, Markdown, and HTML
-- [ ] Text Extraction and Cleaning
-- [ ] Document Metadata
+- [x] Text Extraction and Cleaning
+- [x] Document Metadata
 - [ ] Document Parsing Fundamentals
 - [ ] Code
 
