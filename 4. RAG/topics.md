@@ -14,7 +14,7 @@
 - [x] Working with PDF, TXT, Markdown, and HTML
 - [x] Text Extraction and Cleaning
 - [x] Document Metadata
-- [ ] Document Parsing Fundamentals
+- [x] Document Parsing Fundamentals
 - [ ] Code
 
 ### Phase 3 — Chunking

@@ -10,8 +10,8 @@
 
 ## Phase 2 — Regression Algorithms
 
-- [ ] 08. Linear Regression
-- [ ] 09. Multiple Linear Regression
+- [x] 08. Linear Regression
+- [x] 09. Multiple Linear Regression
 - [ ] 10. Regression Loss Functions
 - [ ] 11. Gradient Descent — Conceptual Understanding
 - [ ] 12. Polynomial Regression
