@@ -15,7 +15,7 @@
 - [x] Text Extraction and Cleaning
 - [x] Document Metadata
 - [x] Document Parsing Fundamentals
-- [ ] Code
+- [ ] Code ❌ Review and Learn
 
 ### Phase 3 — Chunking
 
