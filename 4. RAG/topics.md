@@ -15,19 +15,17 @@
 - [x] Text Extraction and Cleaning
 - [x] Document Metadata
 - [x] Document Parsing Fundamentals
-- [ ] Code ❌ Review and Learn
+- [x] Code
 
 ### Phase 3 — Chunking
 
-- [ ] What Is Text Chunking?
+- [x] What Is Text Chunking?
 - [ ] Fixed-Size Chunking
 - [ ] Chunk Size and Chunk Overlap
 - [ ] Sentence-Based and Recursive Chunking
 - [ ] Metadata-Aware Chunking
 - [ ] Chunking Quality Evaluation
 - [ ] Code
-
-
 
 ### Phase 4 — Embeddings
 
@@ -41,8 +39,6 @@
 - [ ] Embedding Model Selection
 - [ ] Code
 
-
-
 ### Phase 5 — Vector Search
 
 - [ ] Vector Search Fundamentals
@@ -54,8 +50,6 @@
 - [ ] Similarity Thresholds
 - [ ] Vector Database Fundamentals
 - [ ] Code
-
-
 
 ### Phase 6 — Basic RAG Pipeline
 
@@ -69,8 +63,6 @@
 - [ ] Handling No-Result Queries
 - [ ] Code
 
-
-
 ### Phase 7 — Retrieval Improvements
 
 - [ ] Keyword Search vs Semantic Search
@@ -83,8 +75,6 @@
 - [ ] Parent-Child Retrieval Fundamentals
 - [ ] Code
 
-
-
 ### Phase 8 — RAG Evaluation
 
 - [ ] RAG Evaluation Fundamentals
@@ -96,8 +86,6 @@
 - [ ] Evaluating Retrieval Separately from Generation
 - [ ] Comparing RAG Configurations
 - [ ] Code
-
-
 
 ### Phase 9 — RAG Engineering
 
@@ -112,8 +100,6 @@
 - [ ] Access Control and Document Permissions
 - [ ] Prompt Injection Risks in Retrieved Content
 - [ ] Code
-
-
 
 ### Phase 10 — End-to-End RAG Project
 
