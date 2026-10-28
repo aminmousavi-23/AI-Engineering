@@ -12,9 +12,9 @@
 
 - [x] 08. Linear Regression
 - [x] 09. Multiple Linear Regression
-- [ ] 10. Regression Loss Functions
-- [ ] 11. Gradient Descent — Conceptual Understanding
-- [ ] 12. Polynomial Regression
+- [x] 10. Regression Loss Functions
+- [x] 11. Gradient Descent — Conceptual Understanding
+- [x] 12. Polynomial Regression
 - [ ] 13. Regularization
 - [ ] 14. Ridge Regression
 - [ ] 15. Lasso Regression
