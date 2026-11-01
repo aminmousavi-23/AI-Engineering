@@ -15,22 +15,20 @@
 - [x] 10. Regression Loss Functions
 - [x] 11. Gradient Descent — Conceptual Understanding
 - [x] 12. Polynomial Regression
-- [ ] 13. Regularization
-- [ ] 14. Ridge Regression
-- [ ] 15. Lasso Regression
+- [x] 13. Regularization
+- [x] 14. Ridge Regression
+- [x] 15. Lasso Regression
 
 ## Phase 3 — Classification Algorithms
 
-- [ ] 16. Logistic Regression
-- [ ] 17. K-Nearest Neighbors (KNN)
-- [ ] 18. Decision Trees
-- [ ] 19. Random Forest
+- [x] 16. Logistic Regression
+- [x] 17. K-Nearest Neighbors (KNN)
+- [x] 18. Decision Trees
+- [x] 19. Random Forest
 - [ ] 20. Support Vector Machine (SVM)
 - [ ] 21. Naive Bayes
 - [ ] 22. Classification Threshold
 - [ ] 23. Class Imbalance
-
-
 
 ## Phase 4 — Ensemble Learning
 
@@ -41,8 +39,6 @@
 - [ ] 28. XGBoost — Fundamentals
 - [ ] 29. LightGBM — Fundamentals
 - [ ] 30. Feature Importance
-
-
 
 ## Phase 5 — Model Evaluation and Selection
 
@@ -61,8 +57,6 @@
 - [ ] 43. Avoiding Data Leakage During Model Tuning
 - [ ] 44. Final Model Selection
 
-
-
 ## Phase 6 — Unsupervised Algorithms
 
 - [ ] 45. K-Means Clustering
@@ -73,8 +67,6 @@
 - [ ] 50. t-SNE — Visualization and Limitations
 - [ ] 51. Anomaly Detection — Fundamentals
 
-
-
 ## Phase 7 — End-to-End ML Projects
 
 - [ ] 52. Classification Project
@@ -83,8 +75,6 @@
 - [ ] 55. Cross-Validation and Hyperparameter Tuning
 - [ ] 56. Error Analysis and Feature Importance
 - [ ] 57. Final Model Selection Report
-
-
 
 ## Phase 8 — Reinforcement Learning (Optional)
 
