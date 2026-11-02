@@ -29,15 +29,15 @@
 
 ### Phase 4 — Embeddings
 
-- [ ] Embeddings Fundamentals
-- [ ] Semantic Representation of Text
-- [ ] Embedding Models
-- [ ] Generating Document Embeddings
-- [ ] Generating Query Embeddings
-- [ ] Similarity Metrics: Cosine Similarity and Dot Product
-- [ ] Embedding Dimensions
-- [ ] Embedding Model Selection
-- [ ] Code
+- [x] Embeddings Fundamentals
+- [x] Semantic Representation of Text
+- [x] Embedding Models
+- [x] Generating Document Embeddings
+- [x] Generating Query Embeddings
+- [x] Similarity Metrics: Cosine Similarity and Dot Product
+- [x] Embedding Dimensions
+- [x] Embedding Model Selection
+- [x] Code
 
 ### Phase 5 — Vector Search
 

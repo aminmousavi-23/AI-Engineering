@@ -25,10 +25,10 @@
 - [x] 17. K-Nearest Neighbors (KNN)
 - [x] 18. Decision Trees
 - [x] 19. Random Forest
-- [ ] 20. Support Vector Machine (SVM)
-- [ ] 21. Naive Bayes
-- [ ] 22. Classification Threshold
-- [ ] 23. Class Imbalance
+- [x] 20. Support Vector Machine (SVM)
+- [x] 21. Naive Bayes
+- [x] 22. Classification Threshold
+- [x] 23. Class Imbalance
 
 ## Phase 4 — Ensemble Learning
 
