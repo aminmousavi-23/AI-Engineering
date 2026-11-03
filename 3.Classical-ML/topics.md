@@ -32,13 +32,13 @@
 
 ## Phase 4 — Ensemble Learning
 
-- [ ] 24. Ensemble Learning Fundamentals
-- [ ] 25. Bagging
-- [ ] 26. Boosting
-- [ ] 27. Gradient Boosting
-- [ ] 28. XGBoost — Fundamentals
-- [ ] 29. LightGBM — Fundamentals
-- [ ] 30. Feature Importance
+- [x] 24. Ensemble Learning Fundamentals
+- [x] 25. Bagging
+- [x] 26. Boosting
+- [x] 27. Gradient Boosting
+- [x] 28. XGBoost — Fundamentals
+- [x] 29. LightGBM — Fundamentals
+- [x] 30. Feature Importance
 
 ## Phase 5 — Model Evaluation and Selection
 
