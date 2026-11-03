@@ -41,14 +41,14 @@
 
 ### Phase 5 — Vector Search
 
-- [ ] Vector Search Fundamentals
-- [ ] Exact Nearest Neighbor Search
-- [ ] Approximate Nearest Neighbor (ANN) Search
-- [ ] Vector Indexes
-- [ ] Metadata Filtering
-- [ ] Top-K Retrieval
-- [ ] Similarity Thresholds
-- [ ] Vector Database Fundamentals
+- [x] Vector Search Fundamentals
+- [x] Exact Nearest Neighbor Search
+- [x] Approximate Nearest Neighbor (ANN) Search
+- [x] Vector Indexes
+- [x] Metadata Filtering
+- [x] Top-K Retrieval
+- [x] Similarity Thresholds
+- [x] Vector Database Fundamentals
 - [ ] Code
 
 ### Phase 6 — Basic RAG Pipeline
